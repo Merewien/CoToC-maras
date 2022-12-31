@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <style>
+    .ramec {
+      border: 2px solid gray;
+      width: 360px;
+      height: 222px;
+      border-radius: 25px;
+      margin: auto;
+    }
+
+    .trojotazka {
+      border-width: 2px;
+      border-style: solid;
+      width: 292px;
+      height: 156px;
+      border-radius: 15px;
+      margin: 30px
+    }
+
+    .text_otazky {
+      margin: auto;
+      width: 90%;
+      height: 42px;
+      padding-top: 8px;
+    }
+    .text_otazky p {
+      margin: 0;
+      text-align: center;
+      font-weight: bold;
+      font-size: 16px;
+    }
+
+    .posun_jednoradky {
+      padding-top: 8px;
+    }
+
+    body {
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
+      font-size: 16px;
+    }
+
+    .nadpis {
+      text-decoration: underline;
+    }
+
+    .tlacitko {
+      font-family: 'Courier New', Courier, monospace;
+      font-weight: bold;
+      border-radius: 5px;
+      border-color: gray;
+    }
+  </style>
+</head>
+
+<body>
+  <script src="otazky.js"></script>
+  <div style="width: 360px; margin: auto;">
+    <div>
+      <div style="float: left;">
+        <p class="nadpis">Co to čmáráš?</p>
+      </div>
+      <div style="float: right">
+        <p>
+          <input type="button" id="tlacitko" onclick="spust();" value="[ Otoč kartu ]" class="tlacitko">
+        </p>
+      </div>
+    </div>
+
+    <div id="sada" class="ramec" style="clear: both; background-color: whitesmoke;">
+      <div id="lehka" class="trojotazka" style="border-color: yellowgreen; background-color: honeydew;">
+        <div class="text_otazky" style="border-bottom: 1px dashed yellowgreen;">
+          <div style="float: left; width: 40px">
+            <p id="cislo-1" class="posun_jednoradky">1.</p>
+          </div>
+          <div>
+            <p id="otazka-1" class="posun_jednoradky">Otoč kartu</p>
+          </div>
+        </div>
+        <div class="text_otazky" style="border-bottom: 1px dashed yellowgreen;">
+          <div style="float: left; width: 40px">
+            <p id="cislo-2" class="posun_jednoradky">2.</p>
+          </div>
+          <div>
+            <p id="otazka-2" class="posun_jednoradky">Otoč kartu</p>
+          </div>
+        </div>
+        <div class="text_otazky">
+          <div style="float: left; width: 40px">
+            <p id="cislo-3" class="posun_jednoradky">3.</p>
+          </div>
+          <div>
+            <p id="otazka-3" class="posun_jednoradky">Otoč kartu</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div>&nbsp;</div>
+    <div style="display: none;">
+      <p id="hodn1">1.hodnota</p>
+      <p id="hodn2">2.hodnota</p>
+      <p id="hodn3">3.hodnota</p>
+      <p>Soubor <a href="otazky.json" target="_blank">otazky.json</a></p>
+    </div>
+  </div>
+</body>
+
+</html>

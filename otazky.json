@@ -1,0 +1,1210 @@
+[
+    {
+        "id": 0,
+        "otazky": [
+            { "text": "Kalhoty" },
+            { "text": "Džíny" },
+            { "text": "Tepláky" }
+        ]
+    },
+    {
+        "id": 1,
+        "otazky": [
+            { "text": "Mršina" },
+            { "text": "Zdechlina" },
+            { "text": "Mrtvola" }
+        ]
+    },
+    {
+        "id": 2,
+        "otazky": [
+            { "text": "Kůň" },
+            { "text": "Mustang" },
+            { "text": "Hřebec" }
+        ]
+    },
+    {
+        "id": 3,
+        "otazky": [
+            { "text": "Pálivý" },
+            { "text": "Horký" },
+            { "text": "Žhavý" }
+        ]
+    },
+    {
+        "id": 4,
+        "otazky": [
+            { "text": "Věčnost" },
+            { "text": "Posmrtný život" },
+            { "text": "Ráj" }
+        ]
+    },
+    {
+        "id": 5,
+        "otazky": [
+            { "text": "Čmárat" },
+            { "text": "Skicovat" },
+            { "text": "Kreslit" }
+        ]
+    },
+    {
+        "id": 6,
+        "otazky": [
+            { "text": "Keř" },
+            { "text": "Houští" },
+            { "text": "Porost" }
+        ]
+    },
+    {
+        "id": 7,
+        "otazky": [
+            { "text": "Vyhodit" },
+            { "text": "Vyrazit" },
+            { "text": "Vykopnout" }
+        ]
+    },
+    {
+        "id": 8,
+        "otazky": [
+            { "text": "Základní" },
+            { "text": "Jednoduchý" },
+            { "text": "Obyčejný" }
+        ]
+    },
+    {
+        "id": 9,
+        "otazky": [
+            { "text": "Rozzuřený" },
+            { "text": "Naštvaný" },
+            { "text": "Vzteklý" }
+        ]
+    },
+    {
+        "id": 10,
+        "otazky": [
+            { "text": "Úryvek" },
+            { "text": "Útržek" },
+            { "text": "Úlomek" }
+        ]
+    },
+    {
+        "id": 11,
+        "otazky": [
+            { "text": "Plamen" },
+            { "text": "Oheň" },
+            { "text": "Žár" }
+        ]
+    },
+    {
+        "id": 12,
+        "otazky": [
+            { "text": "Rychlý" },
+            { "text": "Svižný" },
+            { "text": "Hbitý" }
+        ]
+    },
+    {
+        "id": 13,
+        "otazky": [
+            { "text": "Krabice" },
+            { "text": "Přepravka" },
+            { "text": "Truhla" }
+        ]
+    },
+    {
+        "id": 14,
+        "otazky": [
+            { "text": "Kolej" },
+            { "text": "Univerzita" },
+            { "text": "Kampus" }
+        ]
+    },
+    {
+        "id": 15,
+        "otazky": [
+            { "text": "Peklo" },
+            { "text": "Podsvětí" },
+            { "text": "Říše mrtvých" }
+        ]
+    },
+    {
+        "id": 16,
+        "otazky": [
+            { "text": "Zoufalství" },
+            { "text": "Smutek" },
+            { "text": "Žal" }
+        ]
+    },
+    {
+        "id": 17,
+        "otazky": [
+            { "text": "Snímek" },
+            { "text": "Obrázek" },
+            { "text": "Fotografie" }
+        ]
+    },
+    {
+        "id": 18,
+        "otazky": [
+            { "text": "Obdivovat" },
+            { "text": "Uznávat" },
+            { "text": "Uctívat" }
+        ]
+    },
+    {
+        "id": 19,
+        "otazky": [
+            { "text": "Cesta" },
+            { "text": "Ulice" },
+            { "text": "Silnice" }
+        ]
+    },
+    {
+        "id": 20,
+        "otazky": [
+            { "text": "Hlasitý" },
+            { "text": "Hlučný" },
+            { "text": "Rušný" }
+        ]
+    },
+    {
+        "id": 21,
+        "otazky": [
+            { "text": "Gorila" },
+            { "text": "Lidoop" },
+            { "text": "King Kong" }
+        ]
+    },
+    {
+        "id": 22,
+        "otazky": [
+            { "text": "Čarodějnictví" },
+            { "text": "Magie" },
+            { "text": "Kouzelnictví" }
+        ]
+    },
+    {
+        "id": 23,
+        "otazky": [
+            { "text": "Grál" },
+            { "text": "Kalich" },
+            { "text": "Pohár" }
+        ]
+    },
+    {
+        "id": 24,
+        "otazky": [
+            { "text": "Borovice" },
+            { "text": "Jedle" },
+            { "text": "Smrk" }
+        ]
+    },
+    {
+        "id": 25,
+        "otazky": [
+            { "text": "Harmonie" },
+            { "text": "Melodie" },
+            { "text": "Hudba" }
+        ]
+    },
+    {
+        "id": 26,
+        "otazky": [
+            { "text": "Vůně" },
+            { "text": "Parfém" },
+            { "text": "Kolínská" }
+        ]
+    },
+    {
+        "id": 27,
+        "otazky": [
+            { "text": "Podnos" },
+            { "text": "Tác" },
+            { "text": "Talíř" }
+        ]
+    },
+    {
+        "id": 28,
+        "otazky": [
+            { "text": "Odejít" },
+            { "text": "Opustit" },
+            { "text": "Zanechat" }
+        ]
+    },
+    {
+        "id": 29,
+        "otazky": [
+            { "text": "Chyba" },
+            { "text": "Omyl" },
+            { "text": "Vada" }
+        ]
+    },
+    {
+        "id": 30,
+        "otazky": [
+            { "text": "Plavidlo" },
+            { "text": "Člun" },
+            { "text": "Loď" }
+        ]
+    },
+    {
+        "id": 31,
+        "otazky": [
+            { "text": "Utíkat" },
+            { "text": "Běhat" },
+            { "text": "Prchat" }
+        ]
+    },
+    {
+        "id": 32,
+        "otazky": [
+            { "text": "Kaple" },
+            { "text": "Kostel" },
+            { "text": "Katedrála" }
+        ]
+    },
+    {
+        "id": 33,
+        "otazky": [
+            { "text": "Beyoncé" },
+            { "text": "Rihanna" },
+            { "text": "Lady Gaga" }
+        ]
+    },
+    {
+        "id": 34,
+        "otazky": [
+            { "text": "Jasný" },
+            { "text": "Zářivý" },
+            { "text": "Světlý" }
+        ]
+    },
+    {
+        "id": 35,
+        "otazky": [
+            { "text": "Ohrožení" },
+            { "text": "Nebezpečí" },
+            { "text": "Varování" }
+        ]
+    },
+    {
+        "id": 36,
+        "otazky": [
+            { "text": "Oslava" },
+            { "text": "Svátek" },
+            { "text": "Večírek" }
+        ]
+    },
+    {
+        "id": 37,
+        "otazky": [
+            { "text": "Choroba" },
+            { "text": "Nevolnost" },
+            { "text": "Nemoc" }
+        ]
+    },
+    {
+        "id": 38,
+        "otazky": [
+            { "text": "Vánek" },
+            { "text": "Vítr" },
+            { "text": "Průvan" }
+        ]
+    },
+    {
+        "id": 39,
+        "otazky": [
+            { "text": "Godzilla" },
+            { "text": "Tyranosaurus rex" },
+            { "text": "Velociraptor" }
+        ]
+    },
+    {
+        "id": 40,
+        "otazky": [
+            { "text": "Uspořádaný" },
+            { "text": "Upravený" },
+            { "text": "Uklizený" }
+        ]
+    },
+    {
+        "id": 41,
+        "otazky": [
+            { "text": "Vystavit" },
+            { "text": "Odhalit" },
+            { "text": "Odkrýt" }
+        ]
+    },
+    {
+        "id": 42,
+        "otazky": [
+            { "text": "Zpravodaj" },
+            { "text": "Oznámení" },
+            { "text": "Hlášení" }
+        ]
+    },
+    {
+        "id": 43,
+        "otazky": [
+            { "text": "Bandita" },
+            { "text": "Psanec" },
+            { "text": "Padouch" }
+        ]
+    },
+    {
+        "id": 44,
+        "otazky": [
+            { "text": "Tanec" },
+            { "text": "Tango" },
+            { "text": "Valčík" }
+        ]
+    },
+    {
+        "id": 45,
+        "otazky": [
+            { "text": "Antibiotika" },
+            { "text": "Lék" },
+            { "text": "Medicína" }
+        ]
+    },
+    {
+        "id": 46,
+        "otazky": [
+            { "text": "Chladný" },
+            { "text": "Studený" },
+            { "text": "Mrazivý" }
+        ]
+    },
+    {
+        "id": 47,
+        "otazky": [
+            { "text": "Ork" },
+            { "text": "Střet" },
+            { "text": "Trol" }
+        ]
+    },
+    {
+        "id": 48,
+        "otazky": [
+            { "text": "Chuligán" },
+            { "text": "Vandal" },
+            { "text": "Grázl" }
+        ]
+    },
+    {
+        "id": 49,
+        "otazky": [
+            { "text": "Citron" },
+            { "text": "Limetka" },
+            { "text": "Citrus" }
+        ]
+    },
+    {
+        "id": 50,
+        "otazky": [
+            { "text": "Duch" },
+            { "text": "Přízrak" },
+            { "text": "Poltergeist" }
+        ]
+    },
+    {
+        "id": 51,
+        "otazky": [
+            { "text": "Explodovat" },
+            { "text": "Odpálit" },
+            { "text": "Vybuchnout" }
+        ]
+    },
+    {
+        "id": 52,
+        "otazky": [
+            { "text": "Uchechtnout se" },
+            { "text": "Hihňat se" },
+            { "text": "Smát se" }
+        ]
+    },
+    {
+        "id": 53,
+        "otazky": [
+            { "text": "Čas" },
+            { "text": "Doba" },
+            { "text": "Lhůta" }
+        ]
+    },
+    {
+        "id": 54,
+        "otazky": [
+            { "text": "Bruno Mars" },
+            { "text": "Michael Jackson" },
+            { "text": "Justin Timberlake" }
+        ]
+    },
+    {
+        "id": 55,
+        "otazky": [
+            { "text": "Krb" },
+            { "text": "Kamna" },
+            { "text": "Pec" }
+        ]
+    },
+    {
+        "id": 56,
+        "otazky": [
+            { "text": "Stíhačka" },
+            { "text": "Tryskáč" },
+            { "text": "Letadlo" }
+        ]
+    },
+    {
+        "id": 57,
+        "otazky": [
+            { "text": "Zničit" },
+            { "text": "Rozbít" },
+            { "text": "Zdemolovat" }
+        ]
+    },
+    {
+        "id": 58,
+        "otazky": [
+            { "text": "Drahokam" },
+            { "text": "Klenot" },
+            { "text": "Křišťál" }
+        ]
+    },
+    {
+        "id": 59,
+        "otazky": [
+            { "text": "Hotel" },
+            { "text": "Motel" },
+            { "text": "Penzion" }
+        ]
+    },
+    {
+        "id": 60,
+        "otazky": [
+            { "text": "Ječmen" },
+            { "text": "Pšenice" },
+            { "text": "Obilí" }
+        ]
+    },
+    {
+        "id": 61,
+        "otazky": [
+            { "text": "Jestřáb" },
+            { "text": "Orel" },
+            { "text": "Sokol" }
+        ]
+    },
+    {
+        "id": 62,
+        "otazky": [
+            { "text": "Miminko" },
+            { "text": "Nemluvně" },
+            { "text": "Novorozenec" }
+        ]
+    },
+    {
+        "id": 63,
+        "otazky": [
+            { "text": "Mezi" },
+            { "text": "Uprostřed" },
+            { "text": "V centru" }
+        ]
+    },
+    {
+        "id": 64,
+        "otazky": [
+            { "text": "Vztek" },
+            { "text": "Nenávist" },
+            { "text": "Hněv" }
+        ]
+    },
+    {
+        "id": 65,
+        "otazky": [
+            { "text": "Měňavka" },
+            { "text": "Bakterie" },
+            { "text": "Vir" }
+        ]
+    },
+    {
+        "id": 66,
+        "otazky": [
+            { "text": "Aréna" },
+            { "text": "Bojiště" },
+            { "text": "Ring" }
+        ]
+    },
+    {
+        "id": 67,
+        "otazky": [
+            { "text": "Legenda" },
+            { "text": "Bajka" },
+            { "text": "Mýtus" }
+        ]
+    },
+    {
+        "id": 68,
+        "otazky": [
+            { "text": "Prase" },
+            { "text": "Vepř" },
+            { "text": "Svině" }
+        ]
+    },
+    {
+        "id": 69,
+        "otazky": [
+            { "text": "Zvláštní" },
+            { "text": "Podivný" },
+            { "text": "Neobvyklý" }
+        ]
+    },
+    {
+        "id": 70,
+        "otazky": [
+            { "text": "Svatý" },
+            { "text": "Posvátný" },
+            { "text": "Božský" }
+        ]
+    },
+    {
+        "id": 71,
+        "otazky": [
+            { "text": "Chlupy" },
+            { "text": "Chomáče" },
+            { "text": "Chmýří" }
+        ]
+    },
+    {
+        "id": 72,
+        "otazky": [
+            { "text": "Jídelna" },
+            { "text": "Restaurace" },
+            { "text": "Bufet" }
+        ]
+    },
+    {
+        "id": 73,
+        "otazky": [
+            { "text": "Popadnout" },
+            { "text": "Stisknout" },
+            { "text": "Zmáčknout" }
+        ]
+    },
+    {
+        "id": 74,
+        "otazky": [
+            { "text": "Zapojit" },
+            { "text": "Připevnit" },
+            { "text": "Přidat" }
+        ]
+    },
+    {
+        "id": 75,
+        "otazky": [
+            { "text": "Prcek" },
+            { "text": "Dítě" },
+            { "text": "Mrňous" }
+        ]
+    },
+    {
+        "id": 76,
+        "otazky": [
+            { "text": "Strach" },
+            { "text": "Hrůza" },
+            { "text": "Děs" }
+        ]
+    },
+    {
+        "id": 77,
+        "otazky": [
+            { "text": "Omáčka" },
+            { "text": "Polévka" },
+            { "text": "Vývar" }
+        ]
+    },
+    {
+        "id": 78,
+        "otazky": [
+            { "text": "Kometa" },
+            { "text": "Meteorit" },
+            { "text": "Asteroid" }
+        ]
+    },
+    {
+        "id": 79,
+        "otazky": [
+            { "text": "Merlin" },
+            { "text": "Gandalf" },
+            { "text": "Brumbál" }
+        ]
+    },
+    {
+        "id": 80,
+        "otazky": [
+            { "text": "Soutěžící" },
+            { "text": "Protivník" },
+            { "text": "Sok" }
+        ]
+    },
+    {
+        "id": 81,
+        "otazky": [
+            { "text": "Vyhodit" },
+            { "text": "Zahodit" },
+            { "text": "Odhodit" }
+        ]
+    },
+    {
+        "id": 82,
+        "otazky": [
+            { "text": "Sob" },
+            { "text": "Jelen" },
+            { "text": "Los" }
+        ]
+    },
+    {
+        "id": 83,
+        "otazky": [
+            { "text": "Urostlý" },
+            { "text": "Ztepilý" },
+            { "text": "Statný" }
+        ]
+    },
+    {
+        "id": 84,
+        "otazky": [
+            { "text": "Divadlo" },
+            { "text": "Představení" },
+            { "text": "Vystoupení" }
+        ]
+    },
+    {
+        "id": 85,
+        "otazky": [
+            { "text": "Mosaz" },
+            { "text": "Zlato" },
+            { "text": "Stříbro" }
+        ]
+    },
+    {
+        "id": 86,
+        "otazky": [
+            { "text": "Publikum" },
+            { "text": "Obecenstvo" },
+            { "text": "Diváci" }
+        ]
+    },
+    {
+        "id": 87,
+        "otazky": [
+            { "text": "Kouřmo" },
+            { "text": "Mlha" },
+            { "text": "Smog" }
+        ]
+    },
+    {
+        "id": 88,
+        "otazky": [
+            { "text": "Vejít" },
+            { "text": "Vstoupit" },
+            { "text": "Proniknout" }
+        ]
+    },
+    {
+        "id": 89,
+        "otazky": [
+            { "text": "Skočit" },
+            { "text": "Přeskočit" },
+            { "text": "Poskočit" }
+        ]
+    },
+    {
+        "id": 90,
+        "otazky": [
+            { "text": "Vědomí" },
+            { "text": "Duše" },
+            { "text": "Cit" }
+        ]
+    },
+    {
+        "id": 91,
+        "otazky": [
+            { "text": "Sloučit" },
+            { "text": "Sečíst" },
+            { "text": "Shrnout" }
+        ]
+    },
+    {
+        "id": 92,
+        "otazky": [
+            { "text": "Frňák" },
+            { "text": "Čenich" },
+            { "text": "Čumák" }
+        ]
+    },
+    {
+        "id": 93,
+        "otazky": [
+            { "text": "Vyprávění" },
+            { "text": "Příběh" },
+            { "text": "Historka" }
+        ]
+    },
+    {
+        "id": 94,
+        "otazky": [
+            { "text": "Padělek" },
+            { "text": "Maketa" },
+            { "text": "Napodobenina" }
+        ]
+    },
+    {
+        "id": 95,
+        "otazky": [
+            { "text": "Kyborg" },
+            { "text": "Robot" },
+            { "text": "Android" }
+        ]
+    },
+    {
+        "id": 96,
+        "otazky": [
+            { "text": "Vodka" },
+            { "text": "Gin" },
+            { "text": "Whisky" }
+        ]
+    },
+    {
+        "id": 97,
+        "otazky": [
+            { "text": "Pracka" },
+            { "text": "Pazour" },
+            { "text": "Hnáta" }
+        ]
+    },
+    {
+        "id": 98,
+        "otazky": [
+            { "text": "Netvor" },
+            { "text": "Monstrum" },
+            { "text": "Zrůda" }
+        ]
+    },
+    {
+        "id": 99,
+        "otazky": [
+            { "text": "Věž" },
+            { "text": "Vyhlídka" },
+            { "text": "Rozhledna" }
+        ]
+    },
+    {
+        "id": 100,
+        "otazky": [
+            { "text": "Mimozemšťan" },
+            { "text": "Marťan" },
+            { "text": "Vetřelec" }
+        ]
+    },
+    {
+        "id": 101,
+        "otazky": [
+            { "text": "Nebezpečný" },
+            { "text": "Hazardní" },
+            { "text": "Riskantní" }
+        ]
+    },
+    {
+        "id": 102,
+        "otazky": [
+            { "text": "Bar" },
+            { "text": "Hospoda" },
+            { "text": "Krčma" }
+        ]
+    },
+    {
+        "id": 103,
+        "otazky": [
+            { "text": "Bolest" },
+            { "text": "Trápení" },
+            { "text": "Zranění" }
+        ]
+    },
+    {
+        "id": 104,
+        "otazky": [
+            { "text": "Hlen" },
+            { "text": "Sopel" },
+            { "text": "Šušeň" }
+        ]
+    },
+    {
+        "id": 105,
+        "otazky": [
+            { "text": "Hádka" },
+            { "text": "Spor" },
+            { "text": "Pře" }
+        ]
+    },
+    {
+        "id": 106,
+        "otazky": [
+            { "text": "Jezero" },
+            { "text": "Rybník" },
+            { "text": "Laguna" }
+        ]
+    },
+    {
+        "id": 107,
+        "otazky": [
+            { "text": "Věštec" },
+            { "text": "Prorok" },
+            { "text": "Jasnovidec" }
+        ]
+    },
+    {
+        "id": 108,
+        "otazky": [
+            { "text": "Mdlý" },
+            { "text": "Fádní" },
+            { "text": "Nevýrazný" }
+        ]
+    },
+    {
+        "id": 109,
+        "otazky": [
+            { "text": "Křeček" },
+            { "text": "Morče" },
+            { "text": "Myš" }
+        ]
+    },
+    {
+        "id": 110,
+        "otazky": [
+            { "text": "Čarodějnice" },
+            { "text": "Věštkyně" },
+            { "text": "Vědma" }
+        ]
+    },
+    {
+        "id": 111,
+        "otazky": [
+            { "text": "Země" },
+            { "text": "Národ" },
+            { "text": "Republika" }
+        ]
+    },
+    {
+        "id": 112,
+        "otazky": [
+            { "text": "Statečný" },
+            { "text": "Odvážný" },
+            { "text": "Neohrožený" }
+        ]
+    },
+    {
+        "id": 113,
+        "otazky": [
+            { "text": "Kobereček" },
+            { "text": "Podložka" },
+            { "text": "Rohož" }
+        ]
+    },
+    {
+        "id": 114,
+        "otazky": [
+            { "text": "Ukrást" },
+            { "text": "Sebrat" },
+            { "text": "Vzít" }
+        ]
+    },
+    {
+        "id": 115,
+        "otazky": [
+            { "text": "Deník" },
+            { "text": "Diář" },
+            { "text": "Zápisník" }
+        ]
+    },
+    {
+        "id": 116,
+        "otazky": [
+            { "text": "Klidný" },
+            { "text": "Tichý" },
+            { "text": "Mírný" }
+        ]
+    },
+    {
+        "id": 117,
+        "otazky": [
+            { "text": "Hrobka" },
+            { "text": "Hřbitov" },
+            { "text": "Pohřebiště" }
+        ]
+    },
+    {
+        "id": 118,
+        "otazky": [
+            { "text": "Ferrari" },
+            { "text": "Lamborghini" },
+            { "text": "Porsche" }
+        ]
+    },
+    {
+        "id": 119,
+        "otazky": [
+            { "text": "Opilec" },
+            { "text": "Alkoholik" },
+            { "text": "Pijan" }
+        ]
+    },
+    {
+        "id": 120,
+        "otazky": [
+            { "text": "Představa" },
+            { "text": "Myšlenka" },
+            { "text": "Nápad" }
+        ]
+    },
+    {
+        "id": 121,
+        "otazky": [
+            { "text": "Duo" },
+            { "text": "Pár" },
+            { "text": "Dvojice" }
+        ]
+    },
+    {
+        "id": 122,
+        "otazky": [
+            { "text": "Kapitán" },
+            { "text": "Vedoucí" },
+            { "text": "Velitel" }
+        ]
+    },
+    {
+        "id": 123,
+        "otazky": [
+            { "text": "Třída" },
+            { "text": "Učebna" },
+            { "text": "Posluchárna" }
+        ]
+    },
+    {
+        "id": 124,
+        "otazky": [
+            { "text": "Pudink" },
+            { "text": "Krém" },
+            { "text": "Želé" }
+        ]
+    },
+    {
+        "id": 125,
+        "otazky": [
+            { "text": "Plochý" },
+            { "text": "Placatý" },
+            { "text": "Rovný" }
+        ]
+    },
+    {
+        "id": 126,
+        "otazky": [
+            { "text": "Astrologie" },
+            { "text": "Zvěrokruh" },
+            { "text": "Horoskop" }
+        ]
+    },
+    {
+        "id": 127,
+        "otazky": [
+            { "text": "James Bond" },
+            { "text": "Jason Bourne" },
+            { "text": "Tajný agent" }
+        ]
+    },
+    {
+        "id": 128,
+        "otazky": [
+            { "text": "Tráva" },
+            { "text": "Sláma" },
+            { "text": "Seno" }
+        ]
+    },
+    {
+        "id": 129,
+        "otazky": [
+            { "text": "Květina" },
+            { "text": "Rostlina" },
+            { "text": "Kytka" }
+        ]
+    },
+    {
+        "id": 130,
+        "otazky": [
+            { "text": "Tekutina" },
+            { "text": "Voda" },
+            { "text": "Kapalina" }
+        ]
+    },
+    {
+        "id": 131,
+        "otazky": [
+            { "text": "Přitahovat" },
+            { "text": "Vábit" },
+            { "text": "Svádět" }
+        ]
+    },
+    {
+        "id": 132,
+        "otazky": [
+            { "text": "Kulturista" },
+            { "text": "Svalovec" },
+            { "text": "Sportovec" }
+        ]
+    },
+    {
+        "id": 133,
+        "otazky": [
+            { "text": "Kvíz" },
+            { "text": "Test" },
+            { "text": "Zkouška" }
+        ]
+    },
+    {
+        "id": 134,
+        "otazky": [
+            { "text": "Krkavec" },
+            { "text": "Kos" },
+            { "text": "Straka" }
+        ]
+    },
+    {
+        "id": 135,
+        "otazky": [
+            { "text": "Mango" },
+            { "text": "Švestka" },
+            { "text": "Kiwi" }
+        ]
+    },
+    {
+        "id": 136,
+        "otazky": [
+            { "text": "Tygr" },
+            { "text": "Lev" },
+            { "text": "Puma" }
+        ]
+    },
+    {
+        "id": 137,
+        "otazky": [
+            { "text": "Opálit" },
+            { "text": "Zapálit" },
+            { "text": "Upálit" }
+        ]
+    },
+    {
+        "id": 138,
+        "otazky": [
+            { "text": "Kočka" },
+            { "text": "Pes" },
+            { "text": "Kůň" }
+        ]
+    },
+    {
+        "id": 139,
+        "otazky": [
+            { "text": "Polštář" },
+            { "text": "Peřina" },
+            { "text": "Deka" }
+        ]
+    },
+    {
+        "id": 140,
+        "otazky": [
+            { "text": "Míč" },
+            { "text": "Balón" },
+            { "text": "Balónek" }
+        ]
+    },
+    {
+        "id": 141,
+        "otazky": [
+            { "text": "Sešit" },
+            { "text": "Kniha" },
+            { "text": "Učebnice" }
+        ]
+    },
+    {
+        "id": 142,
+        "otazky": [
+            { "text": "Monitor" },
+            { "text": "Televize" },
+            { "text": "Displej" }
+        ]
+    },
+    {
+        "id": 143,
+        "otazky": [
+            { "text": "Maska" },
+            { "text": "Rouška" },
+            { "text": "Respirátor" }
+        ]
+    },
+    {
+        "id": 144,
+        "otazky": [
+            { "text": "Vůně" },
+            { "text": "Smrad" },
+            { "text": "Ozón" }
+        ]
+    },
+    {
+        "id": 145,
+        "otazky": [
+            { "text": "Průsvitný" },
+            { "text": "Průhledný" },
+            { "text": "Neviditelný" }
+        ]
+    },
+    {
+        "id": 146,
+        "otazky": [
+            { "text": "Minuta" },
+            { "text": "Den" },
+            { "text": "Rok" }
+        ]
+    },
+    {
+        "id": 147,
+        "otazky": [
+            { "text": "Spát" },
+            { "text": "Chrápat" },
+            { "text": "Ležet" }
+        ]
+    },
+    {
+        "id": 148,
+        "otazky": [
+            { "text": "Černý" },
+            { "text": "Tmavý" },
+            { "text": "Temný" }
+        ]
+    },
+    {
+        "id": 149,
+        "otazky": [
+            { "text": "Rak" },
+            { "text": "Krab" },
+            { "text": "Štír" }
+        ]
+    },
+    {
+        "id": 150,
+        "otazky": [
+            { "text": "Ráno" },
+            { "text": "Poledne" },
+            { "text": "Odpoledne" }
+        ]
+    }
+]
